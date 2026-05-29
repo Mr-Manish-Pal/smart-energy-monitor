@@ -189,16 +189,6 @@ The relay module enables remote switching of connected electrical loads through 
 
 ## Project Demonstration
 
-### Hardware Setup
-
-
-
-### Mobile App Dashboard
-(Add Blynk screenshots here)
-
-### Web Dashboard
-(Add website screenshots here)
-
 
 ###  working video link  
 
