@@ -86,8 +86,8 @@ This project is suitable for smart homes, educational purposes, energy auditing,
 ## Software and Platforms
 
 ### Programming
-- Arduino IDE
-- Embedded C/C++
+- Visual Studio Code IDE
+- C++
 
 ### Mobile Application
 - Blynk IoT
@@ -96,6 +96,7 @@ This project is suitable for smart homes, educational purposes, energy auditing,
 - HTML
 - CSS
 - JavaScript
+- Using AI  
 
 ### Communication
 - Wi-Fi
