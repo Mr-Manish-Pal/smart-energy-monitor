@@ -190,7 +190,7 @@ The relay module enables remote switching of connected electrical loads through 
 ## Project Demonstration
 
 ### Hardware Setup
-![Components](images/components.png)
+![Components]()
 
 ### LCD Output
 (Add LCD screenshots here)
