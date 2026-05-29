@@ -1,11 +1,15 @@
-#define BLYNK_TEMPLATE_ID "TMPLxxxx"
-#define BLYNK_TEMPLATE_NAME "EnergyMeter"
-#define BLYNK_AUTH_TOKEN "yExzd9NS9TGLLWzF6NRA9daW7Df6LGq8"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
+
+
+
+#define BLYNK_TEMPLATE_ID "TMPLxxxx"
+#define BLYNK_TEMPLATE_NAME "EnergyMeter"
+#define BLYNK_AUTH_TOKEN "yExzd9NS9TGLLWzF6NRA9daW7Df6LGq8"
+
 
 // WIFI
 char ssid[] = "Manish";
