@@ -18,15 +18,15 @@ BLYNK_WRITE(V0) {
   int status = param.asInt(); 
   
   if (status == 1) {
-    digitalWrite(RELAY_PIN, LOW);  // Relay ON (Bulb ON)
+    digitalWrite(RELAY_PIN, LOW);  
   } else {
-    digitalWrite(RELAY_PIN, HIGH); // Relay OFF (Bulb OFF)
+    digitalWrite(RELAY_PIN, HIGH); 
   }
 }
 
 void setup() {
   pinMode(RELAY_PIN, OUTPUT);
-  digitalWrite(RELAY_PIN, HIGH); // Shuruat me Bulb OFF rahega
+  digitalWrite(RELAY_PIN, HIGH); 
 
   Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass);
 }

@@ -32,12 +32,12 @@ float costPerUnit = 6.0;
 
 unsigned long lastTime = 0;
 unsigned long lcdTimer = 0;
-unsigned long blynkTimer = 0; // 🔥 Blynk ke liye naya timer
+unsigned long blynkTimer = 0; 
 bool page = 0;
 
 // AC detection variables
 int offCounter = 0;
-bool acState = true; // true = ON, false = OFF
+bool acState = true; 
 
 // SETUP
 void setup() {
