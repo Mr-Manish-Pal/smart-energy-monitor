@@ -317,7 +317,11 @@ Planned enhancements include:
 
 ## Watch Full Working Video
 
-👉 https://youtu.be/8EZps-X8OYU?si=u5bu6g7cc3_1H6Qd
+# 🎥 Project Demonstration
+
+[![Smart Energy Monitor Demo](https://img.youtube.com/vi/8EZps-X8OYU/maxresdefault.jpg)](https://youtu.be/8EZps-X8OYU?si=6dURpgtVdiJmBxAM)
+
+👉 **Click the thumbnail above to watch the full project demonstration video.**
 
 This video demonstrates:
 
