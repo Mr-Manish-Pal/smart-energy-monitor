@@ -8,6 +8,30 @@
 
 An advanced IoT-based Energy Monitoring and Load Control System built using ESP32 that measures electrical parameters in real-time, tracks energy consumption, estimates electricity costs, and allows remote appliance control through Blynk IoT and a Web Dashboard.
 
+# 👨‍💻 Author
+
+## Manish Pal
+
+**B.Tech – Electronics & Communication Engineering (ECE)**
+
+Passionate about:
+
+- Embedded Systems
+- ESP32 Development
+- Internet of Things (IoT)
+- Automation Systems
+- Energy Monitoring Solutions
+
+# 🎥 Project Demonstration
+
+## Watch Full Working Video
+
+# 🎥 Project Demonstration
+
+[![Smart Energy Monitor Demo](https://img.youtube.com/vi/8EZps-X8OYU/maxresdefault.jpg)](https://youtu.be/8EZps-X8OYU?si=6dURpgtVdiJmBxAM)
+
+👉 **Click the thumbnail above to watch the full project demonstration video.**
+
 ---
 
 # 📖 Project Overview
@@ -313,15 +337,7 @@ Planned enhancements include:
 
 ---
 
-# 🎥 Project Demonstration
 
-## Watch Full Working Video
-
-# 🎥 Project Demonstration
-
-[![Smart Energy Monitor Demo](https://img.youtube.com/vi/8EZps-X8OYU/maxresdefault.jpg)](https://youtu.be/8EZps-X8OYU?si=6dURpgtVdiJmBxAM)
-
-👉 **Click the thumbnail above to watch the full project demonstration video.**
 
 This video demonstrates:
 
@@ -376,19 +392,7 @@ Always:
 
 ---
 
-# 👨‍💻 Author
 
-## Manish Pal
-
-**B.Tech – Electronics & Communication Engineering (ECE)**
-
-Passionate about:
-
-- Embedded Systems
-- ESP32 Development
-- Internet of Things (IoT)
-- Automation Systems
-- Energy Monitoring Solutions
 
 ---
 
