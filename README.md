@@ -122,30 +122,6 @@ Features include:
 - Real-Time Synchronization
 - Anywhere Access
 
----
-
-# 🏗 System Architecture
-
-```text
-Voltage Sensor (ZMPT101B)
-            │
-            ▼
-        ESP32 #1
-            │
-Current Sensor (ACS712)
-            │
-            ▼
-   Data Processing Unit
-            │
- ┌──────────┼──────────┐
- ▼          ▼          ▼
-LCD      Blynk App   Web Dashboard
-Display     │             │
-            ▼             ▼
-      Load Control    Analytics
-```
-
----
 
 # ⚙️ Working Principle
 
@@ -192,22 +168,6 @@ Historical energy data is stored and analyzed to identify usage trends and predi
 
 ---
 
-# 🔌 Hardware Components
-
-| Component | Quantity |
-|------------|----------|
-| ESP32 Development Board | 2 |
-| ZMPT101B Voltage Sensor | 1 |
-| ACS712 Current Sensor | 1 |
-| 16x2 LCD Display | 1 |
-| I2C LCD Module | 1 |
-| Relay Module | 1 |
-| Optocoupler | 1 |
-| Breadboard | 1 |
-| Jumper Wires | Multiple |
-| Power Supply | 1 |
-
----
 
 # 💻 Software & Technologies Used
 
@@ -239,105 +199,6 @@ Historical energy data is stored and analyzed to identify usage trends and predi
 
 ---
 
-# 📏 Measured Parameters
-
-| Parameter | Unit |
-|------------|------|
-| Voltage | V |
-| Current | A |
-| Power | W |
-| Energy | kWh |
-| Frequency | Hz |
-| Power Factor | PF |
-| Units Consumed | kWh |
-| Estimated Cost | ₹ |
-
----
-
-# 📱 Mobile Application Features
-
-## Blynk IoT Dashboard
-
-✔ Live Voltage Monitoring
-
-✔ Live Current Monitoring
-
-✔ Live Power Monitoring
-
-✔ Energy Consumption Tracking
-
-✔ Cost Estimation
-
-✔ Remote Load Switching
-
-✔ Instant Data Updates
-
-✔ Cloud Synchronization
-
----
-
-# 🌐 Web Dashboard Features
-
-## Monitoring
-
-- Real-Time Energy Data
-- Appliance Status Monitoring
-- Remote Visualization
-
-## Analytics
-
-- Daily Reports
-- Weekly Reports
-- Monthly Reports
-- Historical Data
-
-## Prediction System
-
-- Future Consumption Forecast
-- Usage Pattern Recognition
-- Smart Monitoring Insights
-
----
-
-# 🎯 Applications
-
-This project can be used in:
-
-### 🏠 Smart Homes
-Monitor household electricity usage and reduce energy waste.
-
-### 🏭 Industrial Monitoring
-Track machinery power consumption and operational efficiency.
-
-### 🎓 Educational Projects
-Learn IoT, Embedded Systems, Cloud Computing, and Energy Analytics.
-
-### 🔬 Research Projects
-Develop advanced smart energy solutions.
-
-### 💡 Energy Auditing
-Analyze electricity consumption patterns and identify energy-saving opportunities.
-
----
-
-# 🚀 Future Improvements
-
-Planned enhancements include:
-
-- AI-Based Energy Prediction
-- Automatic Load Scheduling
-- Smart Billing System
-- Mobile Push Notifications
-- Google Assistant Integration
-- MQTT Communication Protocol
-- Multi-Load Monitoring
-- Solar Energy Monitoring
-- Smart Grid Integration
-- Machine Learning Analytics
-
----
-
-
 
 This video demonstrates:
 
@@ -351,50 +212,6 @@ This video demonstrates:
 - Web Dashboard
 - Remote Load Control
 
----
-
-# 📊 Project Results
-
-The Smart Energy Monitor successfully:
-
-✅ Measures electrical parameters accurately
-
-✅ Displays real-time data on LCD
-
-✅ Sends live data to Blynk Cloud
-
-✅ Provides Web Dashboard Monitoring
-
-✅ Enables Remote Load Control
-
-✅ Tracks Energy Consumption
-
-✅ Estimates Electricity Cost
-
-✅ Stores Historical Data
-
-✅ Performs Consumption Analysis
-
-✅ Supports Future Consumption Prediction
-
----
-
-# 🔒 Safety Note
-
-This project involves AC mains voltage.
-
-Always:
-
-- Use proper insulation
-- Follow electrical safety guidelines
-- Test with caution
-- Avoid direct contact with live wires
-
----
-
-
-
----
 
 # ⭐ Support
 
