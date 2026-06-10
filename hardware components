@@ -1,0 +1,14 @@
+🔌 Hardware Components
+
+| Component | Quantity |
+|------------|----------|
+| ESP32 Development Board | 2 |
+| ZMPT101B Voltage Sensor | 1 |
+| ACS712 Current Sensor | 1 |
+| 16x2 LCD Display | 1 |
+| I2C LCD Module | 1 |
+| Relay Module | 1 |
+| Optocoupler | 1 |
+| Breadboard | 1 |
+| Jumper Wires | Multiple |
+| Power Supply | 1 |
