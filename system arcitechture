@@ -1,0 +1,20 @@
+# 🏗 System Architecture
+
+```text
+Voltage Sensor (ZMPT101B)
+            │
+            ▼
+        ESP32 #1
+            │
+Current Sensor (ACS712)
+            │
+            ▼
+   Data Processing Unit
+            │
+ ┌──────────┼──────────┐
+ ▼          ▼          ▼
+LCD      Blynk App   Web Dashboard
+Display     │             │
+            ▼             ▼
+      Load Control    Analytics
+```
